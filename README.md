@@ -38,26 +38,26 @@ Próximo passo: lançar a LifeSync API em produção na nuvem.
 
 ### Linguagens & Frameworks
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java 21" alt="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Boot / Spring Security" alt="Spring" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes" alt="Kubernetes" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript (portfolio)" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="26" alt="Java" />&nbsp;
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="26" alt="Spring Boot" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="26" alt="Docker" />&nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="26" alt="Kubernetes" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="26" alt="JavaScript" />
 </p>
 
 ### Bancos de Dados
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" alt="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="26" alt="PostgreSQL" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="26" alt="MongoDB" />
 </p>
 
 ### Ferramentas & DevOps
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git & GitHub" alt="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" title="GitHub Actions" alt="GitHub Actions" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" title="Maven" alt="Maven" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" title="IntelliJ IDEA" alt="IntelliJ" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" title="Swagger / OpenAPI" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="26" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="26" alt="GitHub Actions" />&nbsp;
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" height="26" alt="Maven" />&nbsp;
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" height="26" alt="IntelliJ IDEA" />&nbsp;
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" height="26" alt="Swagger" />
 </p>
 
 ### Stack de Testes & Qualidade
@@ -100,10 +100,7 @@ Próximo passo: lançar a LifeSync API em produção na nuvem.
 <!-- Stats baseados na API do GitHub (shields.io - sempre estável) -->
 ![LifeSync CI](https://github.com/EndriwEngSoft/lifesync-api/actions/workflows/ci.yml/badge.svg?branch=main)
 ![Last Commit](https://img.shields.io/github/last-commit/EndriwEngSoft/lifesync-api?label=%C3%9Altimo+commit&style=flat-square&color=0d76bd)
-![Java](https://img.shields.io/badge/Java-82.4%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/EndriwEngSoft?label=Estrelas&style=flat-square&color=0d76bd)
-![Followers](https://img.shields.io/github/followers/EndriwEngSoft?label=Seguidores&style=flat-square&color=0d76bd)
-![Profile Views](https://komarev.com/ghpvc/?username=EndriwEngSoft&label=Visitas&color=0d76bd&style=flat-square)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=EndriwEngSoft&theme=tokyonight&hide_border=true)
 
